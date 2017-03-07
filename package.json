@@ -1,6 +1,6 @@
 {
     "name": "density",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Calculating keyword density in a text/html",
     "homepage": "https://github.com/usablica/density",
     "author": "Afshin Mehrabani <afshin.meh@gmail.com> (http://afshinm.name/)",
